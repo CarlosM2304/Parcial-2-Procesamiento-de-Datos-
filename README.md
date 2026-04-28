@@ -7,3 +7,10 @@ El tratamiento del agua es indispensable para garantizar la pureza y la calidad,
 
 Para lograrlo, se calculó el Water Quality Index (WQI) basándose en los niveles de Oxígeno Disuelto (DO), pH, Conductividad, Demanda Bioquímica de Oxígeno (BOD), Nitratos/Nitritos y Coliformes Fecales.
 
+## Objetivos
+Explorar y aplicar técnicas de Inteligencia Artificial y Big Data en un entorno de alto volumen de datos para:
+Extraer y procesar información desde un clúster Hadoop HDFS utilizando PySpark.
+Realizar limpieza, transformación y Análisis Exploratorio de Datos (EDA).
+Calcular índices de calidad de agua (WQI) basados en literatura científica.
+Entrenar y evaluar un modelo de Redes Neuronales Secuenciales para predecir el índice WQI.
+
